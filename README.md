@@ -1,5 +1,5 @@
 #project
-
+Ping-Pong Game
 
 Author: James Kimani
 
